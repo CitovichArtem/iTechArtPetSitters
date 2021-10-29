@@ -10,7 +10,7 @@ namespace PetSitters.Domain
     {
         public int Id { get; set; }
         public string Name { get; set; }
-        public Pet PetId { get; }
-        public PetSitter PetSitterId { get; }
+        public Pet PetId { get; set; }
+        public PetSitter PetSitterId { get; set; }
     }
 }

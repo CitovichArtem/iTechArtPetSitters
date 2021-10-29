@@ -11,7 +11,7 @@ namespace PetSitters.Domain
         public int Id { get; set; }
         public string Text { get; set; }
         public int Mark{ get; set; }
-        public PetSitter PetSitterId { get;}
-        public User UserId { get;}
+        public PetSitter PetSitterId { get; set; }
+        public User UserId { get; set; }
     }
 }
