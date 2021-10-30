@@ -3,12 +3,14 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using MediatR;
 
-namespace PetSitters.Domain
+namespace PetSitters.Application.PetSitters.Commands.CreatePetSitter
 {
-    public class PetSitter
+    public class CreatePetSitterCommand : IRequest<Guid>
     {
         public Guid Id { get; set; }
         public string Name { get; set; }
+
     }
 }
