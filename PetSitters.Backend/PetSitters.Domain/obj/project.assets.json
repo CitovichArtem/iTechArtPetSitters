@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\source\\repos\\PetSitters.Backend\\PetSitters.Domain\\PetSitters.Domain.csproj",
+      "projectUniqueName": "D:\\Мои документы\\GitHub\\iTechArtPetSitters\\PetSitters.Backend\\PetSitters.Domain\\PetSitters.Domain.csproj",
       "projectName": "PetSitters.Domain",
-      "projectPath": "C:\\Users\\USER\\source\\repos\\PetSitters.Backend\\PetSitters.Domain\\PetSitters.Domain.csproj",
+      "projectPath": "D:\\Мои документы\\GitHub\\iTechArtPetSitters\\PetSitters.Backend\\PetSitters.Domain\\PetSitters.Domain.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\source\\repos\\PetSitters.Backend\\PetSitters.Domain\\obj\\",
+      "outputPath": "D:\\Мои документы\\GitHub\\iTechArtPetSitters\\PetSitters.Backend\\PetSitters.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

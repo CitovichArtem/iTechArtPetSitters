@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\source\\repos\\PetSitters.Backend\\PetSitters.WebApi\\PetSitters.WebApi.csproj": {}
+    "D:\\Мои документы\\GitHub\\iTechArtPetSitters\\PetSitters.Backend\\PetSitters.WebApi\\PetSitters.WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\source\\repos\\PetSitters.Backend\\PetSitters.WebApi\\PetSitters.WebApi.csproj": {
+    "D:\\Мои документы\\GitHub\\iTechArtPetSitters\\PetSitters.Backend\\PetSitters.WebApi\\PetSitters.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\source\\repos\\PetSitters.Backend\\PetSitters.WebApi\\PetSitters.WebApi.csproj",
+        "projectUniqueName": "D:\\Мои документы\\GitHub\\iTechArtPetSitters\\PetSitters.Backend\\PetSitters.WebApi\\PetSitters.WebApi.csproj",
         "projectName": "PetSitters.WebApi",
-        "projectPath": "C:\\Users\\USER\\source\\repos\\PetSitters.Backend\\PetSitters.WebApi\\PetSitters.WebApi.csproj",
+        "projectPath": "D:\\Мои документы\\GitHub\\iTechArtPetSitters\\PetSitters.Backend\\PetSitters.WebApi\\PetSitters.WebApi.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\source\\repos\\PetSitters.Backend\\PetSitters.WebApi\\obj\\",
+        "outputPath": "D:\\Мои документы\\GitHub\\iTechArtPetSitters\\PetSitters.Backend\\PetSitters.WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"

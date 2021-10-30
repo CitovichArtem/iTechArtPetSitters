@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q1grPDhIXlDvlBj3EIQN1XcBdU3WXIQV210gLlnzd7pdATt2UYjfPkNINzOYuHCOCTjRAZLkalg4l5wuilzwKg==",
+  "dgSpecHash": "cBOe9byqjNJnmWqMW7q7JLs2RWgEhVsejzfIZryuvMxdwh3cgyAUcKfuZdO/NOy0LZEtWHpmYgQUaWUqf7q6Qg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\source\\repos\\PetSitters.Backend\\PetSitters.Domain\\PetSitters.Domain.csproj",
+  "projectFilePath": "D:\\Мои документы\\GitHub\\iTechArtPetSitters\\PetSitters.Backend\\PetSitters.Domain\\PetSitters.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
