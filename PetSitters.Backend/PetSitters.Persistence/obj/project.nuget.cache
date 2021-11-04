@@ -1,12 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "VJUTLDFuRAVgu4amdMU80Zbep8gKfo1LMNZatwZfbHzVaP15NGuI2CxER5kf8IuWsEK+nQP4XrxQXhOeytRDwg==",
+  "dgSpecHash": "duoOiJ5jhoBbQnDIFpqhQKUVytCj4ESsmzvW4wUeBavw94I1hp4dBZnk9PCbPLEyLajrl5MoVnEcInNXTleZDQ==",
   "success": true,
   "projectFilePath": "D:\\Мои документы\\GitHub\\iTechArtPetSitters\\PetSitters.Backend\\PetSitters.Persistence\\PetSitters.Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
-    "C:\\Users\\USER\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.data.sqlite.core\\5.0.11\\microsoft.data.sqlite.core.5.0.11.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.dotnet.platformabstractions\\3.1.6\\microsoft.dotnet.platformabstractions.3.1.6.nupkg.sha512",
