@@ -8,9 +8,12 @@ namespace PetSitters.Domain
 {
     public class Service
     {
-        public int Id { get; set; }
+        public Guid Id { get; set; }
         public string Name { get; set; }
-        public Pet PetId { get; set; }
-        public PetSitter PetSitterId { get; set; }
+        public string Details { get; set; }
+        public int PetId { get; set; }
+        public Guid UserId{ get; set; }
+        public User User { get; set; }
+        public Pet Pet { get; set; }
     }
 }

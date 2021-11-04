@@ -5,16 +5,16 @@ using PetSitters.Persistence.EntityTypeConfigurations;
 
 namespace PetSitters.Persistence
 {
-    public class PetSittersDbContext : DbContext, IPetSittersDbContext
+    public class ServicesDbContext : DbContext, IServicesDbContext
 
     {
-        public DbSet<PetSitter> PetSitters { get; set; }
-        public PetSittersDbContext(DbContextOptions<PetSittersDbContext> options)
+        public DbSet<Service> Services { get; set; }
+        public ServicesDbContext(DbContextOptions<ServicesDbContext> options)
             : base(options) { }
         
         protected override void OnModelCreating(ModelBuilder builder)
         {
-            builder.ApplyConfiguration(new PetSitterConfiguration());
+            builder.ApplyConfiguration(new ServiceConfiguration());
             base.OnModelCreating(builder);
         }
     }

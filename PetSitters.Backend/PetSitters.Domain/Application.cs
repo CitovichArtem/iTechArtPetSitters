@@ -9,7 +9,9 @@ namespace PetSitters.Domain
     public class Application
     {
         public int Id { get; set; }
-        public Service ServiceId { get; set; }
-        public Pet PetId { get; set; }
+        public int ServiceId { get; set; }
+        public int PetId { get; set; }
+        public Service Service { get; set; }
+        public Pet Pet { get; set; }
     }
 }

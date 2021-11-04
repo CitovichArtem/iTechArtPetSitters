@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "9fszFzdkcVrMIQMVsgOofrFyvw0CTpOKOZxz7OeZtQD29f+pXhGQ7wSlC69JaaA3HO00RILUhubR2XSV/nmoCA==",
+  "dgSpecHash": "to5YZn0qzNk/S6dAja8g3qmJhDam0Szk0MAMzJ6ZP0FzrH+AWEDx+x/gwr6/q7fhUTmn4LOYtfCNb9XexoJD7Q==",
   "success": true,
   "projectFilePath": "D:\\Мои документы\\GitHub\\iTechArtPetSitters\\PetSitters.Backend\\PetSitters.Application\\PetSitters.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.entityframeworkcore\\5.0.11\\microsoft.entityframeworkcore.5.0.11.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\5.0.11\\microsoft.entityframeworkcore.abstractions.5.0.11.nupkg.sha512",

@@ -2,7 +2,7 @@
 {
     public class DbInitializer
     {
-        public static void Initializer(PetSittersDbContext context)
+        public static void Initialize(ServicesDbContext context)
         {
             context.Database.EnsureCreated();
         }

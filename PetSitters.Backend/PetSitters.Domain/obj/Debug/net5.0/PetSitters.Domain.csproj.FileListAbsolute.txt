@@ -1,0 +1,12 @@
+D:\Мои документы\GitHub\iTechArtPetSitters\PetSitters.Backend\PetSitters.Domain\bin\Debug\net5.0\PetSitters.Domain.deps.json
+D:\Мои документы\GitHub\iTechArtPetSitters\PetSitters.Backend\PetSitters.Domain\bin\Debug\net5.0\PetSitters.Domain.dll
+D:\Мои документы\GitHub\iTechArtPetSitters\PetSitters.Backend\PetSitters.Domain\bin\Debug\net5.0\ref\PetSitters.Domain.dll
+D:\Мои документы\GitHub\iTechArtPetSitters\PetSitters.Backend\PetSitters.Domain\bin\Debug\net5.0\PetSitters.Domain.pdb
+D:\Мои документы\GitHub\iTechArtPetSitters\PetSitters.Backend\PetSitters.Domain\obj\Debug\net5.0\PetSitters.Domain.csproj.AssemblyReference.cache
+D:\Мои документы\GitHub\iTechArtPetSitters\PetSitters.Backend\PetSitters.Domain\obj\Debug\net5.0\PetSitters.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Мои документы\GitHub\iTechArtPetSitters\PetSitters.Backend\PetSitters.Domain\obj\Debug\net5.0\PetSitters.Domain.AssemblyInfoInputs.cache
+D:\Мои документы\GitHub\iTechArtPetSitters\PetSitters.Backend\PetSitters.Domain\obj\Debug\net5.0\PetSitters.Domain.AssemblyInfo.cs
+D:\Мои документы\GitHub\iTechArtPetSitters\PetSitters.Backend\PetSitters.Domain\obj\Debug\net5.0\PetSitters.Domain.csproj.CoreCompileInputs.cache
+D:\Мои документы\GitHub\iTechArtPetSitters\PetSitters.Backend\PetSitters.Domain\obj\Debug\net5.0\PetSitters.Domain.dll
+D:\Мои документы\GitHub\iTechArtPetSitters\PetSitters.Backend\PetSitters.Domain\obj\Debug\net5.0\ref\PetSitters.Domain.dll
+D:\Мои документы\GitHub\iTechArtPetSitters\PetSitters.Backend\PetSitters.Domain\obj\Debug\net5.0\PetSitters.Domain.pdb

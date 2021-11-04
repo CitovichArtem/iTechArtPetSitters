@@ -1,0 +1,17 @@
+D:\Мои документы\GitHub\iTechArtPetSitters\PetSitters.Backend\PetSitters.Persistence\obj\Debug\net5.0\PetSitters.Persistence.csproj.AssemblyReference.cache
+D:\Мои документы\GitHub\iTechArtPetSitters\PetSitters.Backend\PetSitters.Persistence\obj\Debug\net5.0\PetSitters.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Мои документы\GitHub\iTechArtPetSitters\PetSitters.Backend\PetSitters.Persistence\obj\Debug\net5.0\PetSitters.Persistence.AssemblyInfoInputs.cache
+D:\Мои документы\GitHub\iTechArtPetSitters\PetSitters.Backend\PetSitters.Persistence\obj\Debug\net5.0\PetSitters.Persistence.AssemblyInfo.cs
+D:\Мои документы\GitHub\iTechArtPetSitters\PetSitters.Backend\PetSitters.Persistence\obj\Debug\net5.0\PetSitters.Persistence.csproj.CoreCompileInputs.cache
+D:\Мои документы\GitHub\iTechArtPetSitters\PetSitters.Backend\PetSitters.Persistence\bin\Debug\net5.0\PetSitters.Persistence.deps.json
+D:\Мои документы\GitHub\iTechArtPetSitters\PetSitters.Backend\PetSitters.Persistence\bin\Debug\net5.0\PetSitters.Persistence.dll
+D:\Мои документы\GitHub\iTechArtPetSitters\PetSitters.Backend\PetSitters.Persistence\bin\Debug\net5.0\ref\PetSitters.Persistence.dll
+D:\Мои документы\GitHub\iTechArtPetSitters\PetSitters.Backend\PetSitters.Persistence\bin\Debug\net5.0\PetSitters.Persistence.pdb
+D:\Мои документы\GitHub\iTechArtPetSitters\PetSitters.Backend\PetSitters.Persistence\bin\Debug\net5.0\PetSitters.Application.dll
+D:\Мои документы\GitHub\iTechArtPetSitters\PetSitters.Backend\PetSitters.Persistence\bin\Debug\net5.0\PetSitters.Domain.dll
+D:\Мои документы\GitHub\iTechArtPetSitters\PetSitters.Backend\PetSitters.Persistence\bin\Debug\net5.0\PetSitters.Application.pdb
+D:\Мои документы\GitHub\iTechArtPetSitters\PetSitters.Backend\PetSitters.Persistence\bin\Debug\net5.0\PetSitters.Domain.pdb
+D:\Мои документы\GitHub\iTechArtPetSitters\PetSitters.Backend\PetSitters.Persistence\obj\Debug\net5.0\PetSitters.Persistence.csproj.CopyComplete
+D:\Мои документы\GitHub\iTechArtPetSitters\PetSitters.Backend\PetSitters.Persistence\obj\Debug\net5.0\PetSitters.Persistence.dll
+D:\Мои документы\GitHub\iTechArtPetSitters\PetSitters.Backend\PetSitters.Persistence\obj\Debug\net5.0\ref\PetSitters.Persistence.dll
+D:\Мои документы\GitHub\iTechArtPetSitters\PetSitters.Backend\PetSitters.Persistence\obj\Debug\net5.0\PetSitters.Persistence.pdb

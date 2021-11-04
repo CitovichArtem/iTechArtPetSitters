@@ -1,0 +1,15 @@
+D:\Мои документы\GitHub\iTechArtPetSitters\PetSitters.Backend\PetSitters.Application\obj\Debug\net5.0\PetSitters.Application.csproj.AssemblyReference.cache
+D:\Мои документы\GitHub\iTechArtPetSitters\PetSitters.Backend\PetSitters.Application\obj\Debug\net5.0\PetSitters.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Мои документы\GitHub\iTechArtPetSitters\PetSitters.Backend\PetSitters.Application\obj\Debug\net5.0\PetSitters.Application.AssemblyInfoInputs.cache
+D:\Мои документы\GitHub\iTechArtPetSitters\PetSitters.Backend\PetSitters.Application\obj\Debug\net5.0\PetSitters.Application.AssemblyInfo.cs
+D:\Мои документы\GitHub\iTechArtPetSitters\PetSitters.Backend\PetSitters.Application\obj\Debug\net5.0\PetSitters.Application.csproj.CoreCompileInputs.cache
+D:\Мои документы\GitHub\iTechArtPetSitters\PetSitters.Backend\PetSitters.Application\bin\Debug\net5.0\PetSitters.Application.deps.json
+D:\Мои документы\GitHub\iTechArtPetSitters\PetSitters.Backend\PetSitters.Application\bin\Debug\net5.0\PetSitters.Application.dll
+D:\Мои документы\GitHub\iTechArtPetSitters\PetSitters.Backend\PetSitters.Application\bin\Debug\net5.0\ref\PetSitters.Application.dll
+D:\Мои документы\GitHub\iTechArtPetSitters\PetSitters.Backend\PetSitters.Application\bin\Debug\net5.0\PetSitters.Application.pdb
+D:\Мои документы\GitHub\iTechArtPetSitters\PetSitters.Backend\PetSitters.Application\bin\Debug\net5.0\PetSitters.Domain.dll
+D:\Мои документы\GitHub\iTechArtPetSitters\PetSitters.Backend\PetSitters.Application\bin\Debug\net5.0\PetSitters.Domain.pdb
+D:\Мои документы\GitHub\iTechArtPetSitters\PetSitters.Backend\PetSitters.Application\obj\Debug\net5.0\PetSitters.Application.csproj.CopyComplete
+D:\Мои документы\GitHub\iTechArtPetSitters\PetSitters.Backend\PetSitters.Application\obj\Debug\net5.0\PetSitters.Application.dll
+D:\Мои документы\GitHub\iTechArtPetSitters\PetSitters.Backend\PetSitters.Application\obj\Debug\net5.0\ref\PetSitters.Application.dll
+D:\Мои документы\GitHub\iTechArtPetSitters\PetSitters.Backend\PetSitters.Application\obj\Debug\net5.0\PetSitters.Application.pdb
