@@ -33,7 +33,9 @@
     ".NETCoreApp,Version=v5.0": {
       "PetSitters.WebApi/1.0.0": {
         "dependencies": {
+          "AutoMapper": "10.1.1",
           "AutoMapper.Extensions.Microsoft.DependencyInjection": "8.1.1",
+          "MediatR": "9.0.0",
           "PetSitters.Application": "1.0.0",
           "PetSitters.Persistence": "1.0.0",
           "Microsoft.AspNetCore.Antiforgery": "5.0.0.0",

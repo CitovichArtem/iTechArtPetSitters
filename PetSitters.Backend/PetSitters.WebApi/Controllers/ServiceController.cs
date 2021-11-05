@@ -1,15 +1,12 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using AutoMapper;
 using Microsoft.AspNetCore.Mvc;
-using AutoMapper;
-using PetSitters.Application.Services.Queries.GetServiceDetails;
-using PetSitters.Application.Services.Queries.GetServiceList;
 using PetSitters.Application.Services.Commands.CreateService;
 using PetSitters.Application.Services.Commands.DeleteService;
+using PetSitters.Application.Services.Queries.GetServiceDetails;
+using PetSitters.Application.Services.Queries.GetServiceList;
 using PetSitters.WebApi.Models;
+using System;
+using System.Threading.Tasks;
 
 
 

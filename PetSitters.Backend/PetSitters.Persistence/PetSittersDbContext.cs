@@ -9,6 +9,8 @@ namespace PetSitters.Persistence
 
     {
         public DbSet<Service> Services { get; set; }
+        public DbSet<Pet> Pets { get; set; }
+
         public ServicesDbContext(DbContextOptions<ServicesDbContext> options)
             : base(options) { }
         
